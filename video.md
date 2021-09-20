@@ -1,0 +1,3 @@
+- 觀看影片 https://www.youtube.com/watch?v=DgbSc6Ys710
+    - 在 hello-git 建立一個 video.md 的檔案
+    - 在這個檔案紀錄心得/筆記
