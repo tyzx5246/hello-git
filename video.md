@@ -1,5 +1,7 @@
-# video.md 
+# [video.md ](https://hackmd.io/@tyzx5246/ryu81CB7F)
 ## 解鎖大腦潛能-影片觀看心得
+:point_right:[在HackMD瀏覽](https://hackmd.io/@tyzx5246/ryu81CB7F)
+
 ==作業說明:==
 
     - 在 hello-git 建立一個 video.md 的檔案
