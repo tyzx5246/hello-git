@@ -1,4 +1,5 @@
 # git 學習筆記
+👉[在HackMD瀏覽](https://hackmd.io/@tyzx5246/ryvhJsBQF)
 :::info
 - ==工作目錄(Working directory)== Git 相關操作都會在這個目錄下完成
 - ==暫存區(Staging area)== 放準備要提交到儲存庫的檔案
